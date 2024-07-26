@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @BeginnerMAni Just hoping to learn anything related with python or data science
-- i know some basics but i will learn it fully in the next 4 or 5 years
-- 
+- 👋 Hi, I’m @BeginnerMAni. I have completed doing python and the pandas library.
+- I also have done some web development involving html,css,php.
+ 
+
