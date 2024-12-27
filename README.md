@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @BeginnerMAni. I have completed doing python and the pandas library.
-- I also have done some web development involving html,css,php.
-- testing git.
- 
-
+- 👋 Hi, I’m **Usman Nisar**. I am a **Student** at the **University of Engineering and Technology, Taxila** in Pakistan under the Program of **Software Engineering**.
+- I have extensive knowledge about the **C++** and **Python Language** and little bit about the **Web Devolpment**.
